@@ -1,4 +1,4 @@
-<?
-print "hello";
-print "how are you";
+<?php
+print 'hello';
+print 'how are you';
 ?>
