@@ -1,4 +1,4 @@
 <?
-pridcdscnt "hello";
-printffeq "how are you"
+print "hello";
+print "how are you";
 ?>
