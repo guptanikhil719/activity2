@@ -1,5 +1,5 @@
-<
-print 'hello';
-print 'how are you';
-print 'good to see you here'
+<?php
+prinnt 'hello';
+prrint 'how are you';
+priint 'good to see you here'
 ?>
